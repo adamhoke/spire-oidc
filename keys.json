@@ -2,6 +2,14 @@
   "keys": [
     {
       "kty": "RSA",
+      "kid": "O9uyfsqpEET8cQxY7spD1NyKpUiHaxAa",
+      "alg": "RS256",
+      "use": "sig",
+      "n": "7DElPQRlAmBBy0Sn8xmH1dA-cWQBKouIp2epjzYs_N--PQqs6GGsIzx7n232QCywe6Hr_LrBi6IUMIMhBEdCaQM7AXF0QwiVpca1jMG_BKuAiN7dtu-PxLmEUuLMVVO3tidgiEHkBM6iF85TAfsI9pYXJoXP8clNouotJwjZDU3WKdCGviRSX8k-D3sdeHHJpr8CZr5-4Cm8VmKFyC1whlbqNSYmEArREtJ4rXOIBwUosYSCDEIG1fj4qYPNnUr8f6EFClqfO2C_M2z4k--bIVcbUs3UNL4qJJrQT-NkRcexvdMM7bcp2rCmlM4UHiR_9KEkLysgg6ZdrBeOnISkAw",
+      "e": "AQAB"
+    },
+    {
+      "kty": "RSA",
       "kid": "nM6Cve3rNY2bTJ8DPsVoKgFn1oIf6f4w",
       "alg": "RS256",
       "use": "sig",
